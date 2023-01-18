@@ -1,0 +1,250 @@
+   47  git status
+   48  git add --all
+   49  git status
+   50  git add --all
+   51  git status
+   52  git add myproject
+   56  git add .
+   57  git status
+   59  git add index.tml
+   60  git add index.html
+   61  git commit -m first "release of the hello world"
+   63  git commit index.html -m "first release of the hello world"
+   65  git commit index.html -m "first addition of file"
+   66  git status
+   67  git status index.html
+   68  git add .
+   69  git status
+   71  git status
+   72  git add index.html
+   73  git commit -a 
+   83  git init
+   84  git config --global user.name "edwina"
+   85  git config --global user.email "eabah2022@gmail.com"
+   86  git add -A
+   90  git add -A
+   96  git add -A
+   97  git commit .
+  109  git init
+  110  git config --global user.name "edwina"
+  111  git config --global user.email "eabah2022@gmail.com"
+  112  git init
+  113  git status
+  114  git add w3school.html
+  115  git status
+  117  git commit .
+  118  git commit  -a -m "adding a new line"
+  120  git status
+  121  git commit -a
+  122  git status
+  123  git add
+  124  git add .
+  125  git status
+  127  git log
+  128  git status --short
+  129  git commit -help
+  130  git help -all
+  131  git help --all
+  132  git branch hello-world-image
+  133  git branch
+  134  git checkout hello-world-image
+  135  git branch
+  137  git status
+  138  git add -all
+  139  git add --all
+  140  git status
+  141  git commit -m "added image to hello world"
+  142  git checkout master
+  147  git checkout hello-world-image
+  154  git checkout master
+  157  git checkout -b emergency-fix
+  160  git checkout masters
+  161  git checkout master
+  164  git status
+  165  git add w3school.html
+  166  git status
+  167  git commit -m "emergency-fix"
+  168  git branch
+  169  git merge emergency-fix
+  170  git branch -d emergency-fix
+  182  git config --global user.name "edwina abah"
+  183  git config --global user.email "abahedwina@gmail.com"
+  184  git init .
+  187  git status
+  188  git add index.html
+  193  git add index.html
+  194  git status
+  195  git add .
+  196  git status
+  197  git commit -m "html file"
+  198  git status
+  200  git commit -m "first change to html file"
+  201  git add index.html
+  202  git commit -m "first change to html file" 
+  203  git branch helloworld
+  204  git branch
+  205  git checkout helloworld
+  206  git branch
+  209  git status
+  210  git add .
+  211  git status
+  212  git commit -m "Added image to Hello World"
+  213  git status
+  214  git checkout master
+  216  git merge helloworld
+  217  git branch -d helloworld
+  218  git branch
+  219  git checkout hello-world-images
+  220  git checkout hello-world-image
+  226  git branch -d hello-world-image
+  227  git branch
+  228  git branch master
+  229  git checkout master
+  230  git branch -d hello-world-image
+  231  git branch -D hello-world-image
+  232  git branch hello-world-image
+  233  git branch
+  234  git checkout hello-world-image
+  239  git add .
+  240  git add -All
+  241  git add -all
+  242  git add --all
+  243  git status
+  244  git commit .
+  245  git commit .
+  246  git commit -m "Third branch"
+  247  git checkout master
+  248  git merge hello-world-image
+  249  git checkout hello-world-image
+  253  git checkout master
+  254  git merge hello-world-image
+  256  git checkout hello-world-image
+  259  git checkout master
+  260  git merge hello-world-image
+  261  git branch
+  262  git checkout hello-world-image
+  264  git remote add origin https://github.com/Edwina-Abah/index.html.git
+  265  git checkout master
+  266  git remote add origin https://github.com/Edwina-Abah/index.html.git
+  268  git update help
+  275  git config --global user.name "Edwina-Abah"
+  276  git config --global user.email "eabah2022@gmail.com"
+  277  git init
+  281  git status
+  282  git add .
+  288  git config --global user.name "Edwina-Abah"
+  289  git config --global user.email "eabah2022@gmail.com"
+  290  git init .
+  292  git status
+  293  git add .
+  294  git add
+  295  git commit --all
+  302  git add .
+  340  git init
+  343  git init
+  344  git config --global user.name "Edwina-Abah"
+  345  git config --global user.email "eabah2022@gmail.com"
+  346  git status
+  347  git add .
+  348  git status 
+  349  git commit .
+  356  git init
+  359  git init
+  360  git clone https://github.com/agadaprosper/my_python_practice_code
+  364  git branch
+  365  git branch cloneCopy
+  366  git branch
+  367  git checkout cloneCopy
+  368  git checkout cloneCopy main
+  369  git checkout main
+  375  git add .
+  376  git status
+  377  git commit .
+  378  git status
+  379  git push 
+  380  git remote add origin https://github.com/Edwina-Abah/python_practice.git
+  381  git push -u origin master 
+  382  git push https://github.com/Edwina-Abah/python_practice.git
+  385  git help update
+  386  git help
+  387  git help update
+  415  git pull
+  416  git branch
+  417  git checkout master
+  418  git checkout html-skeleton
+  419  git status
+  429  git branch
+  430  git checkout cloneCopy
+  435  git branch testing
+  436  git branch testing
+  441  git checkout master
+  442  git checkout master
+  443  git branch
+  444  git checkout main
+  445  git branch testing 
+  446  git branch
+  447  git checkout testing
+  449  git status
+  450  git branch -d testing
+  451  git checkout main
+  452  git branch -d testing
+  463  git rm -rv myproject
+  464  git rm myproject
+  475  git init
+  478  git add pratical
+  479  git status
+  482  git commit -m "just praticing git skills"
+  483  git diff
+  484  git status
+  485  git add .
+  486  git status
+  487  git commit .
+  488  git status
+  489  git branch
+  490  git branch stage
+  491  git checkout stage
+  492  git branch 
+  493  git checkout master
+  494  git -d stage
+  495  git branch -d stage
+  496  git branch
+  497  git log
+  498  git stash
+  503  git pull 
+  504  git config --global user.name "JADEABAH"
+  505  git config --global user.email "eabah2022@gmail.com"
+  506  git pull git@github.com:JADEABAH/gittutorials.git
+  507  git pull https://github.com/JADEABAH/gittutorials.git
+  508  git init
+  510  git status
+  511  git add .
+  512  git status
+  513  git commit .
+  514  git add readme.txt
+  515  git status
+  517  git statu
+  518  git status
+  519  git add index.html
+  520  git status
+  521  git commit -m "adding readme.txt and index.html"
+  522  git log
+  523  git branch
+  524  git remote add origin https://github.com/JADEABAH/gittutorials.git
+  525  git remote -v
+  526  vi .git/config
+  527  git push -u origin master
+  528  git push -u origin main
+  532  git remote add git@github.com:JADEABAH/gittutorials.git
+  533  git remote add origin git@github.com:JADEABAH/gittutorials.git
+  534  git remote -v 
+  535  vi .git/config
+  536  vi .git/config
+  537  git remote -v
+  538  git push -u origin master 
+  539  git checkout -b dev
+  540  git branch
+  541  git checkout -b test
+  542  git branch
+  543  git checkout dev
+  545  history | grep git 
+  546  history | grep git > githistory.txt

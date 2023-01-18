@@ -1,0 +1,6 @@
+  102  sudo rm myproject
+  388  sudo apt update
+  462  sudo rm -rv myproject
+  547  history | grep sudo
+  548  history | grep sudo > sudohistory.txt
+  549  sudo apt update
